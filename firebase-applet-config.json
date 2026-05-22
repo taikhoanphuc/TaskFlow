@@ -1,10 +1,9 @@
 {
-  "projectId": "persuasive-edge-dsjh2",
-  "appId": "1:339789040228:web:0593f31b1ed09ce33d6d71",
-  "apiKey": "AIzaSyBSAj1h8PRkk7lqfYMN-XSwB8vWlAQ2rqU",
-  "authDomain": "persuasive-edge-dsjh2.firebaseapp.com",
-  "firestoreDatabaseId": "ai-studio-e5f45708-349f-4a90-9226-412ef88e7807",
-  "storageBucket": "persuasive-edge-dsjh2.firebasestorage.app",
-  "messagingSenderId": "339789040228",
-  "measurementId": ""
+  "apiKey": "AIzaSyB0u5WXSk6Xx0XE8wTq4WCtcWvWjeJqORg",
+  "authDomain": "taskflow-app-5e933.firebaseapp.com",
+  "projectId": "taskflow-app-5e933",
+  "storageBucket": "taskflow-app-5e933.firebasestorage.app",
+  "messagingSenderId": "168796059718",
+  "appId": "1:168796059718:web:a1fff2051589b9810ab247",
+  "measurementId": "G-M7N4BH4BF2"
 }
